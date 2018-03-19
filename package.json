@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap4starter",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 workflow",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunezber31/bootstrap-4-starter.git"
+  },
+  "author": "Bernard Nunez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nunezber31/bootstrap-4-starter/issues"
+  },
+  "homepage": "https://github.com/nunezber31/bootstrap-4-starter#readme",
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
